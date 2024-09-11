@@ -3,7 +3,7 @@ module.exports = {
   content: ["./pages/*.{html,js}"],
   theme: {
     colors: {
-      orange: "#f35a05",
+      blue: "#1F4AA8",
       title_color: "#07040c",
       content_color: "#585967",
     },
